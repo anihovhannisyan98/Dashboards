@@ -59,7 +59,7 @@ This repository contains three distinct dashboard implementations demonstrating 
 
 ## Technologies Used
 
-- Visualization Tools: Various BI platforms including QuickSight
+- Visualization Tools: Various BI platforms including Power BI and QuickSight
 - Chart Types: Bar charts, pie charts, donut charts, line graphs, stacked charts
 - Data Analysis: Time series analysis, comparative metrics, segmentation analysis
 
@@ -97,15 +97,5 @@ The dashboards work with different data types:
 - Automated dashboard generation
 - Interactive data exploration
 - Visual storytelling with data
-
-## Contributing
-
-Contributions are welcome! Please feel free to:
-
-- Add new dashboard examples
-- Improve existing visualizations
-- Enhance documentation
-- Submit bug fixes or feature requests
-
 
 
